@@ -10,4 +10,4 @@ A. It's not decided yet. We will announce before the distribution. Keep your eye
 
 ## Q. Can I change my address which I will receive airdrop?
 
-A. Yes. We are planning to get rid of scammer address and correct the address of the participants after mainnnet launch.
+A. Yes. We are planning to get rid of scammer address and correct the address of the participants after mainnet launch.
