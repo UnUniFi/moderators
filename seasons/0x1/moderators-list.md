@@ -22,7 +22,13 @@ This is just an example.
 - UnUniFi address : `ununifi1n3ggu7rmz9lnt56ezs8lv488pepulmc5vrkzpa`
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
-- 
+
+## Aleksei
+
+- Discord user name: `Aleksei#7906`
+- UnUniFi address : `ununifi1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mrnkh4z`
+- MEE6 experience point at the start of this season: `0`
+- MEE6 experience point at the end of this season: `Not yet`
 
 ## Write your easy name here
 
