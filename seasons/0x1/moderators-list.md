@@ -37,6 +37,14 @@ This is just an example.
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
 
+## CryptaniC
+
+- Discord user name: `CryptaniC#0157`
+- UnUniFi address : `ununifi1pfkuyknmfhp4uhhd7tqr4yeqvs9qdttvfgfsfm`
+- MEE6 experience point at the start of this season: `0`
+- MEE6 experience point at the end of this season: `Not yet`
+
+
 ## Write your easy name here
 
 This is just an example.
