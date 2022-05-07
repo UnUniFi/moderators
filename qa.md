@@ -6,7 +6,7 @@ A. TBA. It will be after mainnet launch in May 2022.
 
 ## Q. How much $GUU can I get from Airdrop campaign?
 
-A. It's not decided yet. We will announce before the distribution. Keep your eyes on our Discord(https://discord.gg/ksPWKDjH4s) and Twitter(https://twitter.com/ununifi).
+A. Read [this article](https://medium.com/@ununifi/ununifi-protocol-testnet-airdrop-campaign-afd990f22511).
 
 ## Q. Can I change my address which I will receive airdrop? I forget my mnemonic.
 
@@ -19,10 +19,10 @@ A. Make new account and change your address to receive airdrop following the ans
 
 ## Q. I cannot find my Discord ID on Final_airdrop_list_5_2. What can I do?
 
-A. 
+A. Use the salvation form. See #announcement channel.
 
 ## Q. I see #deleted-channel on the form. What is that?
 
-A.Vist here https://discord.com/channels/762953633230356480/972004888550707230. Post your ununifi address on the channel and fill the url of your post in.
+A. Visit here https://discord.com/channels/762953633230356480/972004888550707230. Post your ununifi address on the channel and fill the url of your post in.
 
 
