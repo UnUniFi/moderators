@@ -12,6 +12,10 @@ A. It's not decided yet. We will announce before the distribution. Keep your eye
 
 A. Yes. We are salvaging right now, so fill the form below. We are planning to get rid of scammer address and correct the address of the participants after mainnet launch. 
  form:https://docs.google.com/forms/d/e/1FAIpQLSfENL3logNztdaUGBwBpwxQsUndsxW3gXXB6IS1TWRdsDzUtA/viewform?usp=sf_link
+ 
+## Q. I lost my mnmemonic and KeyID. Please help.
+
+A. Make new account and change your address to receive airdrop following the ansewer above.
 
 ## Q. I cannot find my Discord ID on Final_airdrop_list_5_2. What can I do?
 
