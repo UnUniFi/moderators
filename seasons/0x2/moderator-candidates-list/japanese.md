@@ -1,1 +1,1 @@
-# Japanese language moderator candidates
+# Japanese language moderator candidates list
