@@ -53,10 +53,10 @@ This is just an example.
 
 ## cindy
 
-- Discord user name: mycindy#5248
-- UnUniFi address : ununifi104xee9d8gquaz7vyzwzurxjxk0sutqqf3emht6
-- MEE6 experience point at the start of this season: 0
-- MEE6 experience point at the end of this season: Not yet
+- Discord user name: `mycindy#5248`
+- UnUniFi address : `ununifi104xee9d8gquaz7vyzwzurxjxk0sutqqf3emht6`
+- MEE6 experience point at the start of this season: `0`
+- MEE6 experience point at the end of this season: `Not yet`
 
 ## Write your easy name here
 
