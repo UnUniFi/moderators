@@ -26,3 +26,6 @@ A. Use the salvation form. See #announcement channel.
 A. Visit here https://discord.com/channels/762953633230356480/972004888550707230. Post your ununifi address on the channel and fill the url of your post in.
 
 
+## Q. sir, my account has lost the password file that was automatically downloaded during registration, and now only the public key is left, how can I restore my account..
+
+A. Noted that the only way to recover your account is you having your Mnemonic (seed phrase ) if you lose it you lose your wallet
