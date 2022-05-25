@@ -1,37 +1,38 @@
-# Q&A list managed by moderators
-
-## Q. When distribution?
-
-A. TBA. It will be after mainnet launch in May 2022.
-
-## Q. How much $GUU can I get from Airdrop campaign?
-
-A. Read [this article](https://medium.com/@ununifi/ununifi-protocol-testnet-airdrop-campaign-afd990f22511).
-
-## Q. Can I change my address which I will receive airdrop? I forget my mnemonic.
-
-A. Yes. We are salvaging right now, so fill the form below. We are planning to get rid of scammer address and correct the address of the participants after mainnet launch. 
- form:https://docs.google.com/forms/d/e/1FAIpQLSfENL3logNztdaUGBwBpwxQsUndsxW3gXXB6IS1TWRdsDzUtA/viewform?usp=sf_link
- 
-## Q. I lost my mnmemonic and KeyID. Please help.
-
-A. Make new account and change your address to receive airdrop following the ansewer above.
-
-## Q. I cannot find my Discord ID on Final_airdrop_list_5_2. What can I do?
-
-A. Use the salvation form. See #announcement channel.
-
-## Q. I see #deleted-channel on the form. What is that?
-
-A. Visit here https://discord.com/channels/762953633230356480/972004888550707230. Post your ununifi address on the channel and fill the url of your post in.
-
-## Q. How to get the url message link?
-
-A.  In android you need to activate the `Developer Mode` its on `Setting`
-   -> `Behavior` -> checklist the `Developer Mode`, then you can long press your message and click share and you can copy the URL message.
-	
-A. In PC just right click on your message and click copy URL message.
+【about beta mainnet】
 
 ## Q. sir, my account has lost the password file that was automatically downloaded during registration, and now only the public key is left, how can I restore my account..
 
 A. Noted that the only way to recover your account is you having your Mnemonic (seed phrase ) if you lose it you lose your wallet
+
+## Q. I lost my mnmemonic and KeyID. Please help.
+
+A. Make new account and comment wrong address and correct address in #support with @Yu Kimura#1023.
+
+## Q. How can I check my balance on mainnet?
+
+A. You have to import your address. Select Connect wallet => UnUniFi => import account and check your wallet.
+
+## Q. What should I do on mainnet?
+
+A. There is not much what you can do atm. You can only delegate GUU.
+
+
+【About NFT airdrop】
+
+## Q. I'm on 10thMay_Final_airdrop_list and I filled form but not on nft qualified list. I didn't change my Discord ID why?
+
+A. It's probably because of Letter cases (capital letter or not) or Spaces contamination. Please resubmit NFT form.
+
+## Q. I cannot find my NFT.
+
+A. You can check it on OpenSea. It's on your hidden .
+
+
+【others】
+
+## Q. How to get the url message link?
+
+A. In android you need to activate the `Developer Mode` its on `Setting`
+   -> `Behavior` -> checklist the `Developer Mode`, then you can long press your message and click share and you can copy the URL message.
+	
+A. In PC just right click on your message and click copy URL message.
