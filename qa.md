@@ -5,12 +5,20 @@
 ## Q. Am I eligible for airdrop? I didn't receive airdrop. Why?
 
 A. Please check if your Discord ID is in these list and find out the reason.
-   1. 10thMay_Final_airdrop_list: https://docs.google.com/spreadsheets/d/1LS5I-AYgbOjZvK64c-d7WsqMUt0UWfpI_WlUmBqoC2E/edit#gid=1786137808<br>If your name is on this list, you should have received GUU. Please access to beta mainnnet and check your wallet.
-   2. Special cases list: https://docs.google.com/spreadsheets/d/1oADwX-g2my34MF9CUr9ATTaQzcIrRk-azqG3ljqfing/view<br>If your name is on this list, you "will" receive GUU in near future. Please keep your eyes on #announcement.
-   3. 25th May NFT qualified list: https://docs.google.com/spreadsheets/d/1RwtpBJI3aVKNk59ZkFa50tal9Ou9JvFpTz881uMeT0g/edit#gid=2048051085<br>If your name is on this list, you should have received NFT. So please check your wallet on OpenSea. We put the guide how to check it below.
+   1. 10thMay_Final_airdrop_list: https://docs.google.com/spreadsheets/d/1LS5I-AYgbOjZvK64c-d7WsqMUt0UWfpI_WlUmBqoC2E/edit#gid=1786137808 If your name is on this list, you should have received GUU. Please access to beta mainnnet and check your wallet.
+   2. Special cases list: https://docs.google.com/spreadsheets/d/1oADwX-g2my34MF9CUr9ATTaQzcIrRk-azqG3ljqfing/view If your name is on this list, you "will" receive GUU in near future. Please keep your eyes on #announcement.
+   3. 25th May NFT qualified list: https://docs.google.com/spreadsheets/d/1RwtpBJI3aVKNk59ZkFa50tal9Ou9JvFpTz881uMeT0g/edit#gid=2048051085 If your name is on this list, you should have received NFT. So please check your wallet on OpenSea. We put the guide how to check it below.   
    4. 25th May NFT "not qualified" list: https://docs.google.com/spreadsheets/d/1_XHDIem-vtpFVz7zAHCmO24M8V2KUJzk4PZT4arhjAo/edit?usp=sharing  
    5. Not matched to the post in Discord: https://docs.google.com/spreadsheets/d/11Qa809twdML92THErN-7OGfwEAreIrHRLOPleXpIT0w/edit?usp=sharing  
-   6. Not in final list or special cases list: https://docs.google.com/spreadsheets/d/15v80b0GeZfyPl_-6X4W2XA7L4ABijRuYQ0t2Pw7FDHc/edit?usp=sharing<br>If your name is on these list, from 4 to 6, that might be<br>- Letter cases (capital letter or not)<br>- Spaces contamination<br>- Not answering to the not-compulsory questions even if you are in final list or special cases list<br>Please fill the form. https://forms.gle/w9tf25tCcNKjfGMz8 or https://forms.gle/bgNf22aJtNTSXxy39
+   6. Not in final list or special cases list: https://docs.google.com/spreadsheets/d/15v80b0GeZfyPl_-6X4W2XA7L4ABijRuYQ0t2Pw7FDHc/edit?usp=sharing
+
+If your name is on these list, from 4 to 6, that might be
+
+- Letter cases (capital letter or not)
+- Spaces contamination
+- Not answering to the not-compulsory questions even if you are in final list or special cases list
+ 
+Please fill the form. https://forms.gle/w9tf25tCcNKjfGMz8 or https://forms.gle/bgNf22aJtNTSXxy39
 
 ## Q. Give me lists for airdrop, there are too many.
 
