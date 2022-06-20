@@ -93,6 +93,8 @@ This is just an example.
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
 
+## Example
+
 This is just an example.
 
 - Discord user name: `Write your Discord user name`
