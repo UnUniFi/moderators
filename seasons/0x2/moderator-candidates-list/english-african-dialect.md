@@ -1,4 +1,4 @@
-# English African dialect language moderator candidates list
+# 
 ## network
 
 - Discord user name: `network#7830`
