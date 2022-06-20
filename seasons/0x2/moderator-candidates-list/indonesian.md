@@ -5,3 +5,9 @@
 
 - Discord user name: `Muhamad Jamil#0030`
 - UnUniFi address : `ununifi1v45254hgxun3vnydjcl6dhw6sz82ulftu6t53s`
+
+
+## Zoor Kriid
+
+- Discord user name: `Zoor Kriid#5442`
+- UnUniFi address : `ununifi1pnndh4ge5svw86myh3ng9cd0s729y4x3eh5gn8`
