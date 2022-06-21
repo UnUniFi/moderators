@@ -9,3 +9,9 @@
 
 - Discord user name: `DigitalAk#1093`
 - UnUniFi address: `ununifi1rzd3awqzl6h67u8ltdjnzfm7rqv5jse9zshhtr`
+
+## Samfunso
+
+- Discord user name: `samfunso54#6881`
+- UnUniFi address: `ununifi1rxzt2nzwa72r3x3xzh7ke8qzj8dd5vnx3auawv`
+- 
