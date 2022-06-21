@@ -121,6 +121,13 @@ This is just an example.
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
 
+## Harley
+
+- Discord user name: `Harley#2209`
+- UnUniFi address: `ununifi146595j467ry0evq3mka5p2a5jaqcv5vc9k04a7`
+- MEE6 experience point at the start of this season: `0`
+- MEE6 experience point at the end of this season: `Not yet`
+
 ## Example
 
 This is just an example.
@@ -128,10 +135,5 @@ Don't overwrite here.
 
 - Discord user name: `Write your Discord user name`
 - UnUniFi address : `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
-- MEE6 experience point at the start of this season: `0`
-- MEE6 experience point at the end of this season: `Not yet`
-
-- Discord user name: `Harley#2209`
-- UnUniFi address: `ununifi146595j467ry0evq3mka5p2a5jaqcv5vc9k04a7`
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
