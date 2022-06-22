@@ -14,8 +14,8 @@
 
 - Discord user name: `samfunso54#6881`
 - UnUniFi address: `ununifi1rxzt2nzwa72r3x3xzh7ke8qzj8dd5vnx3auawv`
-- 
+
 ## Lordwizzy
 
 - Discord user name: `Lordwizzy#4909`
--  UnUniFi address: `ununifi1pq9e4epludy78a96y0j89uqt0uq5k4z3205lka`
+- UnUniFi address: `ununifi1pq9e4epludy78a96y0j89uqt0uq5k4z3205lka`
