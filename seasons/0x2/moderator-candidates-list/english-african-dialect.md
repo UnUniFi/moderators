@@ -19,3 +19,8 @@
 
 - Discord user name: `Lordwizzy#4909`
 - UnUniFi address: `ununifi1pq9e4epludy78a96y0j89uqt0uq5k4z3205lka`
+
+## Oluwatammie
+
+- Discord user name: `Tamilore#1839`
+- UnUnifi address: `ununifi14zjts9wlngz2rek8qgaqu4tgfaqa4meg63l83g`
