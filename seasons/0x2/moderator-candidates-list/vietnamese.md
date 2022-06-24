@@ -9,3 +9,8 @@
 
 - Discord user name: `PutinX#5810`
 - UnUniFi address: `ununifi1e998w66qp6wg6vln7d8cqphus08wzkfydsfw9x`
+
+## ChinhPT | Moderator Vietnam
+
+- Discord user name: `ChinhPT#0965`
+- UnUniFi address: `ununifi1paj00usj7k69f9vvpknazcppr48pwnyqxg4lqj`
