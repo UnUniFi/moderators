@@ -11,5 +11,6 @@
 - UnUniFi address: `ununifi1qjc0q9f3kt5zvdwcm7zrf2znvx2ehn4dfc0gt9`
 
 ## august
+
 - Discord user name: `august#1511`
-- UnUnifi address: `ununifi1fmczw6xvue5l658nzfyv8gl0xwxeq2guyg4cf0`
+- UnUniFi address: `ununifi1fmczw6xvue5l658nzfyv8gl0xwxeq2guyg4cf0`
