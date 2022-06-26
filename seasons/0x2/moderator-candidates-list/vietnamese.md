@@ -14,3 +14,8 @@
 
 - Discord user name: `ChinhPT#0965`
 - UnUniFi address: `ununifi1paj00usj7k69f9vvpknazcppr48pwnyqxg4lqj`
+
+## Taybew | Moderator Vietnam
+
+- Discord user name: `Taybew#3622`
+- UnUniFi address: `ununifi16mchtwpq4fg4lpzks4a49yg7rqattjy4gh92zf`
