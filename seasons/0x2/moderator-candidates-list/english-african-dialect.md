@@ -36,8 +36,6 @@
 - UnUniFi Address: `ununifi1trsgq44an2ju2ymp5m4lv4wvvxdq5hegx2sqa0`
 
 ## Olusegun
+
 - Discord username: `InesturOlusegun#0895`
 - UnUnifi address: `ununifi12uakjr78p76ry3m4508l5msxuhth5uz4mxk7tm`
-
-
-
