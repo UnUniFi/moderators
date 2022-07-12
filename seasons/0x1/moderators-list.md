@@ -42,7 +42,7 @@ This is just an example.
 - Discord user name: `ChinhPT#0965`
 - UnUniFi address: `ununifi1paj00usj7k69f9vvpknazcppr48pwnyqxg4lqj`
 - MEE6 experience point at the start of this season: `0`
-- MEE6 experience point at the end of this season: `Not yet`
+- MEE6 experience point at the end of this season: `3449`
 
 ## Meng
 
