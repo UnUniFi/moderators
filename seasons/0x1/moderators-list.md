@@ -119,7 +119,7 @@ This is just an example.
 - Discord user name: `UlfBern | UnUniFi#3689`
 - UnUniFi address: `ununifi1avd4jplu89t6ds66udfspsv9nlkwn2ru03jy9j`
 - MEE6 experience point at the start of this season: `0`
-- MEE6 experience point at the end of this season: `Not yet`
+- MEE6 experience point at the end of this season: `2702`
 
 ## Golden Sauce
 
