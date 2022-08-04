@@ -91,7 +91,7 @@ This is just an example.
 - Discord user name: `Zoor Kriid#5442`
 - UnUniFi address: `ununifi1pnndh4ge5svw86myh3ng9cd0s729y4x3eh5gn8`
 - MEE6 experience point at the start of this season: `0`
-- MEE6 experience point at the end of this season: `Not yet`
+- MEE6 experience point at the end of this season: `526`
 
 ## Famo
 
