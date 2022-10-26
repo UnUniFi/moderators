@@ -9,7 +9,7 @@ This is just an example.
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
 
-## Write your easy name here
+## Write your first name (or nickname) here
 
 This is just an example.
 
