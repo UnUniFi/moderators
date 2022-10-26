@@ -85,8 +85,14 @@ A. There is not much what you can do atm. You can only delegate GUU.
 A. Up to you. You can use whichever you want. (Japanese mod,CryptaniC#0157, is using ununifi.mainnet.lcd-01.neukind.network(default))
 
 ## Q. How long will it take to unbond?
-
 A. 14 days.
+
+## Q. How connect Keplr to UnUniFi portal?
+A. Complite next steps:
+  1. Create a new Keplr account using the mnemonic of the UnUniFi wallet you did the testnet with
+  2. Go to https://ununifi.io/portal/ and connect wallet using Keplr
+  3. Choose UnUniFi network in the Keplr
+  4. You will see the GUU tokens you have staked
 
 ## [Others]
 
