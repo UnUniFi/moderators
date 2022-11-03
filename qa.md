@@ -5,7 +5,8 @@ Please visit the appropriate chapter for your questions:
 1) [Testnet Airdrop Eligibility & Commemoration NFT]
 2) [Beta Mainnet + Staking / Unbonding]
 3) [Checking UnUniFi Wallet Balances & Connecting to Keplr]
-4) [Others]
+4) [Community Program]
+5) [Others]
 
 (If your question is not addressed here, please submit your question to the Support channel in Discord!)
 
@@ -117,7 +118,18 @@ A. You must re-add your wallet to Keplr as a new account for UnUniFi Mainnet. Us
 A. You can also search your wallet address in the UnUniFi Explorer to see its balance: https://ununifi.io/explorer/
 
 
-## 4) [Others]
+## 4) [Community Program]
+
+## Q. How long does it take to review quests?
+A. On average, up to 7 days, but times may vary. Regardless, all quests submitted will be reviewed and considered for credit before the end of the Month.
+
+## Q. How long does it take to receive rewards from the Community Program?
+A. Due to current Mainnet status (Beta) token transfers are disabled. This means any rewards must be sent via token airdrop during a distribution phase scheduled by the developers. Currently, this will occur during an onchain upgrade. In the future once our token has launched, we expect reward distributions to sent out much more quickly via an easier, direct process. Until then, we appreciate your patience and please take note that:
+- Any tokens earned or accumulated have been recorded by our team and will be sent out accordingly during the next scheduled phase.
+- The date of any upcoming onchain upgrade (and token distribution) will be shared in the announcements channel in Discord.
+
+
+## 5) [Others]
 
 ## Q. How to get the url message link?
 A. In android you need to activate the Developer Mode its on Setting -> Behavior -> checklist the Developer Mode, then you can long press your message and click share and you can copy the URL message.
