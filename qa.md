@@ -10,7 +10,7 @@ Please visit the appropriate chapter for your questions:
 (If your question is not addressed here, please submit your question to the Support channel in Discord!)
 
 
-## [Testnet Airdrop Eligibility & Commemoration NFT]
+## 1) [Testnet Airdrop Eligibility & Commemoration NFT]
 
 ## Q. Am I eligible for GUU airdrop?
 
@@ -77,7 +77,7 @@ Form: https://forms.gle/RmaQuNr1UA2WCntX7
 The deadline of "salvation for commemoration NFT" is 10th June 23:59 UTC.
 
 
-## [Beta Mainnet + Staking / Unbonding]
+## 2) [Beta Mainnet + Staking / Unbonding]
 
 ## Q. Mainnet URL?
 
@@ -103,7 +103,7 @@ A. Up to you. You can use whichever you want. (Japanese mod,CryptaniC#0157, is u
 A. 14 days.
 
 
-## [Checking UnUniFi Wallet Balances & Connecting to Keplr]
+## 3) [Checking UnUniFi Wallet Balances & Connecting to Keplr]
 
 ## Q. How do I connect Keplr to the UnUniFi portal? (How do I connect my UnUniFi Wallet to Keplr?)
 A. Complete the following steps:
@@ -117,7 +117,7 @@ A. You must re-add your wallet to Keplr as a new account for UnUniFi Mainnet. Us
 A. You can also search your wallet address in the UnUniFi Explorer to see its balance: https://ununifi.io/explorer/
 
 
-## [Others]
+## 4) [Others]
 
 ## Q. How to get the url message link?
 A. In android you need to activate the Developer Mode its on Setting -> Behavior -> checklist the Developer Mode, then you can long press your message and click share and you can copy the URL message.
