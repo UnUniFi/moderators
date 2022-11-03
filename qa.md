@@ -76,6 +76,7 @@ A. Noted that the only way to recover your account is you having your Mnemonic (
 
 ## Q. How can I check my balance on mainnet?
 A. You have to import your address. Select Connect wallet => UnUniFi => import account and check your wallet.
+A. You can also search your wallet address in the UnUniFi Explorer to see its balance: https://ununifi.io/explorer/
 
 ## Q. What should I do on mainnet?
 A. There is not much what you can do atm. You can only delegate GUU.
@@ -87,12 +88,18 @@ A. Up to you. You can use whichever you want. (Japanese mod,CryptaniC#0157, is u
 ## Q. How long will it take to unbond?
 A. 14 days.
 
-## Q. How connect Keplr to UnUniFi portal?
-A. Complite next steps:
-  1. Create a new Keplr account using the mnemonic of the UnUniFi wallet you did the testnet with
-  2. Go to https://ununifi.io/portal/ and connect wallet using Keplr
-  3. Choose UnUniFi network in the Keplr
-  4. You will see the GUU tokens you have staked
+## [Checking UnUniFi Wallet Balances & Connecting to Keplr ]
+
+## Q. How do I connect Keplr to the UnUniFi portal? (How do I connect my UnUniFi Wallet to Keplr?)
+A. Complete the following steps:
+  1. Create a new Keplr account using the mnemonic phrase for your UnUniFi wallet (This will be the same if you participated in testnet).
+  2. Go to https://ununifi.io/portal/ and connect wallet using Keplr.
+  3. Choose UnUniFi network in the Keplr.
+  4. You will see any GUU tokens in your balance or tokens you have staked.
+
+## Q. I connected my UnUniFi wallet to Keplr during testnet but can no longer see my wallet balance, can you help?
+A. You must re-add your wallet to Keplr as a new account for UnUniFi Mainnet. Use the steps listed above ^ to create a new Keplr account.
+A. You can also search your wallet address in the UnUniFi Explorer to see its balance: https://ununifi.io/explorer/
 
 ## [Others]
 
