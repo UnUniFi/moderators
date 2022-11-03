@@ -1,6 +1,16 @@
 # Q&A list managed by moderators
 
-## [About Airdrop eligibility]
+
+Please visit the appropriate chapter for your questions:
+1) [Testnet Airdrop Eligibility & Commemoration NFT]
+2) [Beta Mainnet + Staking / Unbonding]
+3) [Checking UnUniFi Wallet Balances & Connecting to Keplr]
+4) [Others]
+
+(If your question is not addressed here, please submit your question to the Support channel in Discord!)
+
+
+## [Testnet Airdrop Eligibility & Commemoration NFT]
 
 ## Q. Am I eligible for GUU airdrop?
 
@@ -29,13 +39,17 @@ A. I give you some of list.
    6. Special cases list: https://docs.google.com/spreadsheets/d/1oADwX-g2my34MF9CUr9ATTaQzcIrRk-azqG3ljqfing/view
    7. 25th May NFT "not qualified" list: https://docs.google.com/spreadsheets/d/1_XHDIem-vtpFVz7zAHCmO24M8V2KUJzk4PZT4arhjAo/edit?usp=sharing 
 
-## Q. Am I eligible for commemoration NFT?
+## Q. I did not receive an airdrop, and I checked my balances correctly against the Final List and did not have a GUU balance, am I out of luck?
+
+A. Yes, we are sorry but the testnet airdrop period has concluded. There is nothing that can be done if you did not qualify in time. We will not be making any changes or exceptions to the testnet airdrop status. Instead, we highly encourage you to participate in our other incentives to receive token airdrops such as participating in the Community Program or the Moderator Program.
+
+## Q. Am I eligible for the Commemoration NFT?
 
 A.The ppl whose name is on these list have received NFT.
   1. 25th May NFT qualified list: https://docs.google.com/spreadsheets/d/1RwtpBJI3aVKNk59ZkFa50tal9Ou9JvFpTz881uMeT0g/edit#gid=2048051085
   2. New_Qualified_NFT_airdrop_list: https://docs.google.com/spreadsheets/d/1870JjKoe9a1hzeLSfEUSB3fFXBfUrvqHE2NnCQ6wU00/edit#gid=2125017951
 
-## Q. How can I check NFT in my wallet?
+## Q. How can I check the NFT in my wallet?
 
 A. Follow the guide below.
    1. Open your wallet Dapp browser
@@ -50,7 +64,7 @@ A. Follow the guide below.
 
 A. PolygonScan also helps you. https://polygonscan.com/
 
-## Q. I submitted NFT form but I haven't gotten any. Why?
+## Q. I submitted the NFT form but I haven't gotten any. Why?
 
 A. Here's the list of the ppl who couldn't receive NFT.Check your name please.
 
@@ -63,7 +77,7 @@ Form: https://forms.gle/RmaQuNr1UA2WCntX7
 The deadline of "salvation for commemoration NFT" is 10th June 23:59 UTC.
 
 
-## [About Beta Mainnet]
+## [Beta Mainnet + Staking / Unbonding]
 
 ## Q. Mainnet URL?
 
@@ -88,7 +102,8 @@ A. Up to you. You can use whichever you want. (Japanese mod,CryptaniC#0157, is u
 ## Q. How long will it take to unbond?
 A. 14 days.
 
-## [Checking UnUniFi Wallet Balances & Connecting to Keplr ]
+
+## [Checking UnUniFi Wallet Balances & Connecting to Keplr]
 
 ## Q. How do I connect Keplr to the UnUniFi portal? (How do I connect my UnUniFi Wallet to Keplr?)
 A. Complete the following steps:
@@ -100,6 +115,7 @@ A. Complete the following steps:
 ## Q. I connected my UnUniFi wallet to Keplr during testnet but can no longer see my wallet balance, can you help?
 A. You must re-add your wallet to Keplr as a new account for UnUniFi Mainnet. Use the steps listed above ^ to create a new Keplr account.
 A. You can also search your wallet address in the UnUniFi Explorer to see its balance: https://ununifi.io/explorer/
+
 
 ## [Others]
 
