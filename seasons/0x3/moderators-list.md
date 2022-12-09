@@ -9,6 +9,15 @@ This is just an example.
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
 
+## Kimura
+
+This is just an example.
+
+- Discord user name: `KIMURA Yu#1023`
+- UnUniFi address: `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
+- MEE6 experience point at the start of this season: `0`
+- MEE6 experience point at the end of this season: `Not yet`
+
 ## Write your first name (or nickname) here
 
 This is just an example.
