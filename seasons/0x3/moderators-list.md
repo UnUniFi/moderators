@@ -1,8 +1,8 @@
 # Moderators list
 
-## Kimura
+## Kimura (Example)
 
-This is just an example.
+This is just an example. Don't overwrite here.
 
 - Discord user name: `KIMURA Yu#1023`
 - UnUniFi address: `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
@@ -43,20 +43,9 @@ This is just an example.
 - MEE6 experience point at the start of this season: `33745`
 - MEE6 experience point at the end of this season: `42375`
 
-
-## Example
-
-This is just an example.
-Don't overwrite here.
-
-- Discord user name: `Write your Discord user name`
-- UnUniFi address: `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
-- MEE6 experience point at the start of this season: `0`
-- MEE6 experience point at the end of this season: `Not yet`
-
 ## UlfBern | UnUniFi#3689
 
-- Discord user name: UlfBern | UnUniFi#3689
-- UnUniFi address: ununifi1avd4jplu89t6ds66udfspsv9nlkwn2ru03jy9j
-- MEE6 experience point at the start of this season: 0
-- MEE6 experience point at the end of this season: 1270
+- Discord user name: `UlfBern | UnUniFi#3689`
+- UnUniFi address: `ununifi1avd4jplu89t6ds66udfspsv9nlkwn2ru03jy9j`
+- MEE6 experience point at the start of this season: `0`
+- MEE6 experience point at the end of this season: `8300`
