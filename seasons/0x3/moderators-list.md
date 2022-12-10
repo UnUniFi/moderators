@@ -36,14 +36,20 @@ This is just an example.
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `13600`
 
+## Fanreza
+
+- Discord user name: `Muhamad Jamil#0030`
+- UnUniFi address : `ununifi1v45254hgxun3vnydjcl6dhw6sz82ulftu6t53s`
+- MEE6 experience point at the start of this season: `33745`
+- MEE6 experience point at the end of this season: `42375`
 
 
-
-## Write your first name (or nickname) here
+## Example
 
 This is just an example.
+Don't overwrite here.
 
 - Discord user name: `Write your Discord user name`
-- UnUniFi address : `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
+- UnUniFi address: `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
