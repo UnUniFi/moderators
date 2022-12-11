@@ -49,3 +49,12 @@ This is just an example. Don't overwrite here.
 - UnUniFi address: `ununifi1avd4jplu89t6ds66udfspsv9nlkwn2ru03jy9j`
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `8300`
+
+## CryptaniC#0157
+
+This is just an example. Don't overwrite here.
+
+- Discord user name: `CryptaniC#0157`
+- UnUniFi address: `ununifi1pfkuyknmfhp4uhhd7tqr4yeqvs9qdttvfgfsfm`
+- MEE6 experience point at the start of this season: `13395`
+- MEE6 experience point at the end of this season: `25070`
