@@ -14,3 +14,8 @@
 
 - Discord user name: `Pyzz#3595`
 - UnUniFi address : `ununifi1uc68tmfc40yurpw8xqk30sxggvd5javt9xvny5`
+- 
+## Rrahdit
+
+- Discord user name: `Rrahdit#1228`
+- UnUniFi address : `ununifi1rl9qmjlsmeheq4es8xlzc5j30w54wty993kang`
